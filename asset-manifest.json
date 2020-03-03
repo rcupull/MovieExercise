@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/moviexercise/static/js/main.a68d5e72.chunk.js",
+    "main.js.map": "/moviexercise/static/js/main.a68d5e72.chunk.js.map",
+    "runtime-main.js": "/moviexercise/static/js/runtime-main.42273d8d.js",
+    "runtime-main.js.map": "/moviexercise/static/js/runtime-main.42273d8d.js.map",
+    "static/css/2.77092636.chunk.css": "/moviexercise/static/css/2.77092636.chunk.css",
+    "static/js/2.d9ab1639.chunk.js": "/moviexercise/static/js/2.d9ab1639.chunk.js",
+    "static/js/2.d9ab1639.chunk.js.map": "/moviexercise/static/js/2.d9ab1639.chunk.js.map",
+    "index.html": "/moviexercise/index.html",
+    "precache-manifest.674ccc0542dd1049bda9af343c337d11.js": "/moviexercise/precache-manifest.674ccc0542dd1049bda9af343c337d11.js",
+    "service-worker.js": "/moviexercise/service-worker.js",
+    "static/css/2.77092636.chunk.css.map": "/moviexercise/static/css/2.77092636.chunk.css.map",
+    "static/js/2.d9ab1639.chunk.js.LICENSE.txt": "/moviexercise/static/js/2.d9ab1639.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/moviexercise/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42273d8d.js",
+    "static/css/2.77092636.chunk.css",
+    "static/js/2.d9ab1639.chunk.js",
+    "static/js/main.a68d5e72.chunk.js"
+  ]
+}
